@@ -17,7 +17,7 @@ export default component$(() => {
       <head>
         <meta charSet="utf-8" />
         <link rel="manifest" href="/manifest.json" />
-        <link rel="stylesheet" href="cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+        <link rel="stylesheet" href="font-awesome/6.4.0/css/all.min.css"/>
         <RouterHead />
       </head>
       <body lang="en" class="font-Firasans">
